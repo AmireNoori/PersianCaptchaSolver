@@ -38,7 +38,9 @@ The built-optimized model for this type of captcha is using ONNX.
 
 The Open Neural Network Exchange is an open-source artificial intelligence ecosystem of technology companies and research organizations that establish open standards for representing machine learning algorithms and software tools to promote innovation and collaboration in the AI sector. ONNX is available on GitHub.
 
-![captcha example](images/onnx-logo.png) [Repo](https://github.com/onnx/onnx)
+![captcha example](images/onnx-logo.png) 
+
+[Repo](https://github.com/onnx/onnx)
 
 ### Installation
 
