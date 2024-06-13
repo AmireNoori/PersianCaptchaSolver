@@ -1,0 +1,10 @@
+opencv-python
+mltu==0.1.3
+PyYAML>=6.0
+tqdm
+qqdm==0.0.7
+pandas
+numpy
+Pillow>=9.4.0
+onnxruntime>=1.15.0  # onnxruntime-gpu for GPU support
+matplotlib
