@@ -139,3 +139,5 @@ SOFTWARE.
 Amir Noori - [@AmireNoori1](https://t.me/AmireNoori1) - noorifardam@gmail.com
 
 Project Link: [https://github.com/AmireNoori/PersianCaptchaSolver](https://github.com/AmireNoori/PersianCaptchaSolver)
+
+Thank you if this tool was useful for you and you used it, give it a star ⭐ and make me happy by following my profile❤️.
